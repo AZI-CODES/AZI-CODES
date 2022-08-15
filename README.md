@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AZI-CODES
+- 👋 Hi, I’m Raymond
 - 👀 I’m interested in latest technologies. I have learnt frontent development using html, css and javascript
-- 🌱 I’m currently learning Flutter in software development
+- 🌱 Flutter dev
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me on Twitter @_genuisx8
 
